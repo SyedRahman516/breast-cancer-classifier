@@ -3,3 +3,5 @@ pandas
 gunicorn
 sklearn
 scikit-image
+seaborn
+plotly
